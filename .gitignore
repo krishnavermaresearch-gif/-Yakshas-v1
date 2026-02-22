@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.txt
+.env.local
+.env.*.local
+*.js
+*.js.map
+*.d.ts
+!src/
+data/
+# Sensitive credential files
+data/oauth-tokens.json
+data/apis.json
+data/security/
+data/soul/
