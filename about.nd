@@ -1,0 +1,81 @@
+# About Yakshas-v1
+
+## Vision: Linux for the AI Era
+
+**Yakshas-v1** is a universal agent platform—what Linux is to operating systems, Yakshas-v1 is to intelligent automation. We're democratizing automation for everyone.
+
+**Core Beliefs:**
+- Autonomy should be accessible (not locked behind enterprise walls)
+- Agents should learn *your* patterns, not the other way around
+- Anyone should extend capabilities via open-source + plugins
+- Your data, your rules, your infrastructure
+
+## Mission: 5 Pillars
+
+1. **Automates Everything** — Phones, computers, cloud services, third-party systems
+2. **Learns Continuously** — Improves from interactions, generates reusable skills
+3. **Adapts to You** — Learns preferences, predicts needs, adapts communication
+4. **Runs Anywhere** — Local (Ollama), cloud (Claude/Gemini/Grok), or hybrid
+5. **Stays Private** — Default local, opt-in cloud, full audit trail
+
+## Why Yakshas-v1?
+
+**The Gap:** Current automation is fragmented (Zapier is simple but limited; RPA is powerful but closed; LLM APIs are smart but stateless; custom scripts are fragile).
+
+**The Solution:** Multi-agent orchestration + persistent memory + 100+ tools + pluggable LLMs + event-driven workflows + digital soul that learns you.
+
+## We Need You
+
+**Engineers:** Tool builders, LLM integrators, architects, security researchers, frontend/mobile devs  
+**ML/AI:** Reinforcement learning, memory systems, behavioral modeling  
+**Community:** Writers, managers, educators, translators  
+**Ideas:** Power users, domain experts, designers
+
+## Design Principles
+
+✓ Modular & composable (swap anything: LLMs, memory, tools)  
+✓ Learn from everything (every action generates data)  
+✓ Fail gracefully & self-heal  
+✓ Transparent & auditable (log all decisions)  
+✓ Privacy first, cloud optional  
+✓ Infinitely extensible
+
+## How to Contribute
+
+1. Fork & create feature branch
+2. Pick an issue (`good-first-issue` or `help-wanted`)
+3. Implement, test, document
+4. Submit PR — we'll review & merge
+
+Or open an issue to discuss ideas, report bugs, request features.
+
+## The Vision
+
+**Agent for Everyone.**
+
+Like Linux for billions (servers, phones, IoT), Yakshas-v1 becomes the autonomous agent for billions—enabling anyone, anywhere to automate anything.
+
+## Community
+
+| Platform | Link |
+|----------|------|
+| GitHub | [Yakshas-v1](https://github.com/your-org/yakshas-v1) |
+| Discussions | [Feature Ideas & Feedback](https://github.com/your-org/yakshas-v1/discussions) |
+| Issues | [Report Bugs, Request Features](https://github.com/your-org/yakshas-v1/issues) |
+| Twitter/X | [@YakshasAI](https://x.com/VermaResearch) |
+
+## License & Values
+
+**MIT License** — Free, open, permissive.
+
+- Open source first (code, designs, ideas in the open)
+- Community-driven (users shape the future)
+- No vendor lock-in (you own everything)
+- Non-profit spirit (profits serve the project)
+
+## The Ask
+
+If you believe in intelligent automation for everyone, open-source science, continuous learning, private-first infrastructure, and community over corporations—**join us.**
+
+**Yakshas-v1** — The world's most autonomous agent. Together. 🚀
+
